@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" />
+<img src="https://github.com/apiSalah/tutoRepo/blob/master/about-cover.png" />
 <b>Leisurely exploring the software development world</b>
 </p>
 <p align="center">&nbsp;</p>
